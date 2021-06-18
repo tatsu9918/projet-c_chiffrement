@@ -93,5 +93,3 @@ Lorsque l'on se trompe dans la saisie du décalage, une boucle infinie se crée.
 
 > [COLOME Charlotte]
 > [POMIES Guillaume]
-
-https://framagit.org/LudOo/message_encryption
